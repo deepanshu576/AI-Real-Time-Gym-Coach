@@ -19,3 +19,25 @@ A real-time AI fitness coach built using:
 - AI voice coaching
 - Workout history
 - User login
+
+## Tech Stack
+- Python
+- Streamlit
+- MediaPipe
+- OpenCV
+- Groq API
+- SQLite
+
+## Installation
+pip install -r requirements.txt
+
+streamlit run main.py
+
+
+## Future Improvements
+- Mobile App
+- Multi-person tracking
+- Exercise recommendations
+
+## Author
+Deepanshu
